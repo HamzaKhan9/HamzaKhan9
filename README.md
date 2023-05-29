@@ -1,11 +1,11 @@
-Hi 👋, I'm Hamza!
+# Hi 👋, I'm Hamza!
 
 ==================================
 
 
 ![](https://cdn-128.anonfiles.com/Z7hd35Vcyb/eecc348c-1675320833/rohit's%20Header.png)
 
-🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, <br> 💬 Ask me about REACT, CSS, SOLIDITY, WEB3, JAVASCRIPT, and Life-Science related topics <br>⚡ Fun fact I also wanted to be a gamer <br> 💫 People know me as: MHK 
+🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, <br> 💬 Ask me about REACT, CSS, SOLIDITY, WEB3, JAVASCRIPT <br>⚡ Fun fact I also wanted to be a gamer <br> 💫 People know me as: <b>MHK</b> 
 
 
 ## 🌐 Socials:
